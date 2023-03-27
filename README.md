@@ -38,4 +38,4 @@ The JavaScript code for this game is a bit more complex. It creates a `GuessingG
 
 ## Acknowledgements
 
-This game was created as a project for the "Computational Thinking and Application Server" course at FIAP.
+This game was created as a project for the the Computational Thinking and Application Server subject of the Internet Systems course at FIAP.
